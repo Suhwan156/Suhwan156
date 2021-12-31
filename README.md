@@ -5,6 +5,6 @@
   - Linkedin : https://www.linkedin.com/in/suhwan156/
 
 - 👀 I’m interested in security
-- 🌱 I’m currently learning python, AWS, Kubernetes..
+- 🌱 I’m currently learning python, AWS, Docker..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
