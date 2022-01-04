@@ -1,7 +1,4 @@
 4년차, 보안을 좋아하는 엔지니어 김수환입니다.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88092b8a-7fcc-4264-9b34-0d9f48c7c2fb/KakaoTalk_20210603_005438518.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88092b8a-7fcc-4264-9b34-0d9f48c7c2fb/KakaoTalk_20210603_005438518.jpg)
-
 ## Contact
 
  📱 **+821023055639**
@@ -16,7 +13,7 @@
 
  📷 **[instagram](https://www.instagram.com/suhwan156/)**
 
-👩‍💻 [**Github**](https://github.com/Suhwan156)
+👩‍💻 [**notion-resume**](https://suhwan156.notion.site/Engineering-suhwan156-74f828c1828a4cc4b0cfe1d8858e1103)
 
 ---
 
