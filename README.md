@@ -11,8 +11,6 @@
 
 [My Study Room](https://www.notion.so/My-Study-Room-230f1b5aba07495484f23dca1b1c7673)
 
-👩‍💻 [**Github**](https://github.com/Suhwan156)
-
  🔗 [**Linked-in**](http://www.linkedin.com/in/suhwan156)
 
  📷 **[instagram](https://www.instagram.com/suhwan156/)**
